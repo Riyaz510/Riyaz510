@@ -129,11 +129,17 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
+```
+commit 4a2f9c1
+Author: Riyaz510 <riyazrocky2005@gmail.com>
+Date:   Everyday
 
-![2025 Goal](https://img.shields.io/badge/2025%20Goal-Land%20My%20First%20Internship-%236e40c9?style=for-the-badge&logoColor=white)
-![Learning](https://img.shields.io/badge/Currently%20Learning-DSA%20%26%20React-%236e40c9?style=for-the-badge&logo=leetcode&logoColor=white)
-![Fuel](https://img.shields.io/badge/Runs%20On-Music%20%2B%20Curiosity-%236e40c9?style=for-the-badge&logo=spotify&logoColor=white)
+    feat: still learning, still building, still leveling up
 
-*⭐ From [Riyaz510](https://github.com/Riyaz510) — Building cool things, one commit at a time.*
+    - Added: new skills
+    - Fixed: old mistakes
+    - Removed: self-doubt
+    - TODO: land first internship
+```
 
 </div>
