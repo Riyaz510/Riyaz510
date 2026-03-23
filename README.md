@@ -25,6 +25,23 @@ riyaz = {
 
 > 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
 
+## 🏎️ F1 Fan
+
+![Red Bull Racing](https://img.shields.io/badge/Red%20Bull%20Racing-Fan-%230600EF?style=for-the-badge&logo=redbull&logoColor=white)
+![Max Verstappen](https://img.shields.io/badge/Max%20Verstappen-%231-0600EF?style=for-the-badge&logoColor=white)
+![Formula 1](https://img.shields.io/badge/Formula%201-Fan-%23e8002d?style=for-the-badge&logo=f1&logoColor=white)
+
+> 🏁 *"Maybe God is with him, but he is not God."* 🐂
+
+## 🎮 Gaming
+
+![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-%23000000?style=for-the-badge&logo=activision&logoColor=white)
+![Valorant](https://img.shields.io/badge/Valorant-%23ff4655?style=for-the-badge&logo=riot-games&logoColor=white)
+![GTA](https://img.shields.io/badge/GTA-%23000000?style=for-the-badge&logo=rockstargames&logoColor=white)
+![BGMI](https://img.shields.io/badge/BGMI-%23f5a623?style=for-the-badge&logoColor=white)
+![PC Gaming](https://img.shields.io/badge/Platform-PC-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+> 🎯 *"I don't rage quit. I strategically disconnect."* 💀
 ---
 
 ## 🛠️ Tech Stack
