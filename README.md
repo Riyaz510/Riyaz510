@@ -120,6 +120,7 @@
 
 [![Email](https://img.shields.io/badge/Email-riyazrocky2005%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyazrocky2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Riyaz510-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riyaz510)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Riyaz-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-riyaz)
 
 </div>
 
@@ -129,7 +130,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Riyaz510&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![2025 Goal](https://img.shields.io/badge/2025%20Goal-Land%20My%20First%20Internship-%236e40c9?style=for-the-badge&logoColor=white)
+![Learning](https://img.shields.io/badge/Currently%20Learning-DSA%20%26%20React-%236e40c9?style=for-the-badge&logo=leetcode&logoColor=white)
+![Fuel](https://img.shields.io/badge/Runs%20On-Music%20%2B%20Curiosity-%236e40c9?style=for-the-badge&logo=spotify&logoColor=white)
 
 *⭐ From [Riyaz510](https://github.com/Riyaz510) — Building cool things, one commit at a time.*
 
