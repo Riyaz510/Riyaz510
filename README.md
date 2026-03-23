@@ -33,9 +33,6 @@
 ┌──(riyaz㉿github)-[~]
 └─$ _
 ```
-
-> 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
-
 > 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
 
 ---
