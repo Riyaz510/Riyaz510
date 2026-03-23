@@ -8,21 +8,33 @@
 
 ---
 
-## 🌌 About Me
+## 🖥️ About Me
+```bash
+┌──(riyaz㉿github)-[~]
+└─$ whoami
 
-```python
-riyaz = {
-    "name"       : "Mohd Riyaz",
-    "location"   : "India 🇮🇳",
-    "role"       : "Full Stack Dev & AI Enthusiast",
-    "education"  : "Computer Science Major",
-    "learning"   : ["React ⚛️", "DSA 🧠"],
-    "interests"  : ["Web Dev", "AI/ML", "Gaming 🎮", "Music 🎵"],
-    "looking_for": "Freelance Collaborations 🤝",
-    "fuel"       : "Music + Curiosity 🎧",
-    "motto"      : "Learn. Build. Level Up. Every Single Day."
-}
+> Mohd Riyaz — Full Stack Dev & AI Enthusiast 🇮🇳
+
+┌──(riyaz㉿github)-[~]
+└─$ cat about.txt
+
+> 🎓 Computer Science Major
+> 🌍 Based in India
+> ⚛️  Currently learning React & DSA
+> 🤝 Looking for Freelance Collaborations
+> 🎧 Fuel: Music + Curiosity
+> 🎮 Gamer | 🏎️ F1 Fan | 💻 Builder
+
+┌──(riyaz㉿github)-[~]
+└─$ cat motto.txt
+
+> "Learn. Build. Level Up. Every Single Day." 💜
+
+┌──(riyaz㉿github)-[~]
+└─$ _
 ```
+
+> 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
 
 > 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
 
