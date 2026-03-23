@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Mohd%20Riyaz&fontSize=60&fontColor=a78bfa&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Mohd%20Riyaz&fontSize=60&fontColor=a78bfa&animation=twinkling" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+Grinder+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -9,8 +9,6 @@
 ---
 
 ## 🌌 About Me
-
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 riyaz = {
@@ -27,8 +25,6 @@ riyaz = {
 ```
 
 > 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
-
-<br clear="right"/>
 
 ---
 
@@ -122,7 +118,7 @@ riyaz = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Riyaz510&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
