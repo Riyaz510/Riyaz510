@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+Grinder+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
 </div>
 
 ---
@@ -126,9 +125,8 @@
 
 ---
 
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
+
 ```
 commit 4a2f9c1
 Author: Riyaz510 <riyazrocky2005@gmail.com>
@@ -141,5 +139,3 @@ Date:   Everyday
     - Removed: self-doubt
     - TODO: land first internship
 ```
-
-</div>
