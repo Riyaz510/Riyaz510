@@ -19,7 +19,7 @@
 
 > 🎓 Computer Science Major
 > 🌍 Based in India
-> ⚛️  Currently learning React & DSA
+> ⚛️ Currently learning React & DSA
 > 🤝 Looking for Freelance Collaborations
 > 🎧 Fuel: Music + Curiosity
 > 🎮 Gamer | 🏎️ F1 Fan | 💻 Builder
