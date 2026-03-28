@@ -93,10 +93,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Riyaz510&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Riyaz510&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
