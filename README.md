@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Mohd%20Riyaz&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%7C%20API%20%26%20Systems%20Builder&descSize=18&descAlignY=65&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Mohd%20Riyaz&fontSize=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;REST+APIs+%7C+Docker+%7C+Redis+%7C+Node.js;Building+Real+Systems%2C+Not+Just+Tutorials+%F0%9F%9A%80;Open+to+Backend+SDE+Internships+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
