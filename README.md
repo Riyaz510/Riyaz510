@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Mohd%20Riyaz&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=70&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Mohd%20Riyaz&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Backend%20Developer%20%7C%20API%20%26%20Systems%20Builder&descSize=18&descAlignY=70&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+Grinder+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;REST+APIs+%7C+Docker+%7C+Redis+%7C+Node.js;Building+Real+Systems%2C+Not+Just+Tutorials+%F0%9F%9A%80;Open+to+Backend+SDE+Internships+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,15 +12,15 @@
 ┌──(riyaz㉿github)-[~]
 └─$ whoami
 
-> Mohd Riyaz — Full Stack Dev & AI Enthusiast 🇮🇳
+> Mohd Riyaz — Backend Developer & Systems Builder 🇮🇳
 
 ┌──(riyaz㉿github)-[~]
 └─$ cat about.txt
 
-> 🎓 Computer Science Major
-> 🌍 Based in India
-> ⚛️ Currently learning React & DSA
-> 🤝 Looking for Freelance Collaborations
+> 🎓 CS @ VJIT, Hyderabad — Batch 2027
+> ⚙️  Backend dev — Node.js, Flask, Docker, Redis, MongoDB
+> 🚀 Built: API Sentry, SousChef AI, Bondify & more
+> 🎯 Open to: Backend SDE Internships & Academic Project Freelancing
 > 🎧 Fuel: Music + Curiosity
 > 🎮 Gamer | 🏎️ F1 Fan | 💻 Builder
 
@@ -32,36 +32,25 @@
 ┌──(riyaz㉿github)-[~]
 └─$ _
 ```
-> 💜 *CS major passionate about web development & DSA. I enjoy exploring the world of tech and gaming while building real projects. Most of my coding sessions are powered by music and curiosity — always focused on learning, building, and leveling up.*
+> 💜 *CS undergrad passionate about backend engineering and building systems that actually work. I enjoy APIs, containers, and real-time systems — most of my coding sessions are powered by music and curiosity. Always focused on shipping, not just learning.*
 
 ---
 
-## 🏎️ F1 Fan
+## 🚀 Projects
 
-![Red Bull Racing](https://img.shields.io/badge/Red%20Bull%20Racing-Fan-%230600EF?style=for-the-badge&logo=redbull&logoColor=white)
-![Max Verstappen](https://img.shields.io/badge/Max%20Verstappen-%231-0600EF?style=for-the-badge&logoColor=white)
-![Formula 1](https://img.shields.io/badge/Formula%201-Fan-%23e8002d?style=for-the-badge&logo=f1&logoColor=white)
-
-> 🏁 *"Maybe God is with him, but he is not God."* 🐂
-
----
-
-## 🎮 Gaming
-
-![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-%23000000?style=for-the-badge&logo=activision&logoColor=white)
-![Valorant](https://img.shields.io/badge/Valorant-%23ff4655?style=for-the-badge&logo=riot-games&logoColor=white)
-![GTA](https://img.shields.io/badge/GTA-%23000000?style=for-the-badge&logo=rockstargames&logoColor=white)
-![BGMI](https://img.shields.io/badge/BGMI-%23f5a623?style=for-the-badge&logoColor=white)
-![PC Gaming](https://img.shields.io/badge/Platform-PC-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-> 🎯 *"I don't rage quit. I strategically disconnect."* 💀
+| Project | Stack | What it does |
+|---|---|---|
+| [API Sentry](https://github.com/Riyaz510/API-Sentry-Real-Time-API-Monitoring-IDS) | Node.js, Redis, MongoDB, Socket.io, Docker | Real-time API intrusion detection system with rule-based threat engine |
+| [SousChef AI](https://github.com/Riyaz510) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out |
+| [Bondify](https://github.com/Riyaz510/BONDIFY) | Flutter, Dart, Material 3 | Interest-based connection app with proximity discovery |
+| [Grievance Feedback System](https://github.com/Riyaz510) | Python, Flask, React, Docker | NLP sentiment classifier across grievance categories |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,docker,redis,mongodb,postgresql,react,vite,tailwind,js,git,github,vscode,linux&theme=dark&perline=8" />
 </p>
 
 ---
@@ -103,6 +92,29 @@
 
 ---
 
+## 🏎️ F1 Fan
+
+![Red Bull Racing](https://img.shields.io/badge/Red%20Bull%20Racing-Fan-%230600EF?style=for-the-badge&logo=redbull&logoColor=white)
+![Max Verstappen](https://img.shields.io/badge/Max%20Verstappen-%231-0600EF?style=for-the-badge&logoColor=white)
+![Formula 1](https://img.shields.io/badge/Formula%201-Fan-%23e8002d?style=for-the-badge&logo=f1&logoColor=white)
+
+> 🏁 *"Maybe God is with him, but he is not God."* 🐂
+
+---
+
+## 🎮 Gaming
+
+![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-%23000000?style=for-the-badge&logo=activision&logoColor=white)
+![Valorant](https://img.shields.io/badge/Valorant-%23ff4655?style=for-the-badge&logo=riot-games&logoColor=white)
+![GTA](https://img.shields.io/badge/GTA-%23000000?style=for-the-badge&logo=rockstargames&logoColor=white)
+![BGMI](https://img.shields.io/badge/BGMI-%23f5a623?style=for-the-badge&logoColor=white)
+![RDR2](https://img.shields.io/badge/RDR2-%23b22222?style=for-the-badge&logoColor=white)
+![God of War](https://img.shields.io/badge/God%20of%20War-%23d4af37?style=for-the-badge&logoColor=white)
+
+> 🎯 *"I don't rage quit. I strategically disconnect."* 💀
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -124,8 +136,8 @@ Date:   Everyday
 
     feat: still learning, still building, still leveling up
 
-    - Added: new skills
+    - Added: new skills (Redis, Docker, real-time systems)
     - Fixed: old mistakes
     - Removed: self-doubt
-    - TODO: land first internship
+    - TODO: land first backend SDE internship 🎯
 ```
