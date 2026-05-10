@@ -58,14 +58,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riyaz510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="180px"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riyaz510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F3FBF&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
 </div>
 
