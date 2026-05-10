@@ -65,7 +65,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
