@@ -58,15 +58,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riyaz510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Riyaz510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Riyaz510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F3FBF&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
