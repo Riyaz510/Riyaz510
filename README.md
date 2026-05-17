@@ -42,7 +42,7 @@
 |---|---|---|
 | [API Sentry](https://github.com/Riyaz510/API-Sentry-Real-Time-API-Monitoring-IDS) | Node.js, Redis, MongoDB, Socket.io, Docker | Real-time API intrusion detection system with rule-based threat engine |
 | [Kitchen Alchemy](https://github.com/Riyaz510/Kitchen-Alchemy) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out |
-| [Bondify](https://github.com/Riyaz510/BONDIFY) | Flutter, Dart, Material 3 | Interest-based connection app with proximity discovery |
+
 
 ---
 
