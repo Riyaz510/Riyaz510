@@ -32,6 +32,12 @@
 | [API Sentry](https://github.com/Riyaz510/API-Sentry-Real-Time-API-Monitoring-IDS) | Node.js, Express, Redis, MongoDB, Socket.io, Docker | Real-time API monitoring/IDS — intercepts requests via middleware, runs sliding-window rate limiting and brute-force detection, auto-blacklists offending IPs, alerts via Socket.io |
 | [Kitchen Alchemy](https://github.com/Riyaz510/Kitchen-Alchemy) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out. Deployed to production, handles 50+ ingredient combinations, sub-2s load |
 
+## 🚧 Currently Building
+
+- **[Cartify](https://github.com/Riyaz510/Cartify)** — Node.js | *Work in progress* — building an e-commerce backend from scratch to go deeper on Node.js: cart logic, order handling, auth. Not production-ready yet, but the commits are real.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
