@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Riyaz510&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
