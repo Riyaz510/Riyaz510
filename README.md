@@ -13,26 +13,15 @@
 └─$ whoami
 
 > Mohd Riyaz — Backend Developer & Systems Builder 🇮🇳
-
-┌──(riyaz㉿github)-[~]
-└─$ cat about.txt
-
-> 🎓 CS @ VJIT, Hyderabad — Batch 2027
-> ⚙️  Backend dev — Node.js, Flask, Docker, Redis, MongoDB
-> 🚀 Built: API Sentry, SousChef AI, Bondify & more
-> 🎯 Open to: Backend SDE Internships & Academic Project Freelancing
-> 🎧 Fuel: Music + Curiosity
-> 🎮 Gamer | 🏎️ F1 Fan | 💻 Builder
-
-┌──(riyaz㉿github)-[~]
-└─$ cat motto.txt
-
-> "Learn. Build. Level Up. Every Single Day." 💜
+> 🎓 CS @ VJIT, Hyderabad — Batch 2027 · CGPA 8.49
+> ⚙️  Backend — Node.js, Express.js, REST APIs, PostgreSQL, MongoDB
+> 🎯 Open to: Backend SDE Internships
+> 💜 "Learn. Build. Level Up. Every Single Day."
 
 ┌──(riyaz㉿github)-[~]
 └─$ _
 ```
-> 💜 *CS undergrad passionate about backend engineering and building systems that actually work. I enjoy APIs, containers, and real-time systems — most of my coding sessions are powered by music and curiosity. Always focused on shipping, not just learning.*
+> *CS undergrad focused on backend engineering — APIs, containers, real-time systems. Completed Angela Yu's Full-Stack Web Development Bootcamp and I've been deepening backend skills through real, deployed projects since.*
 
 ---
 
@@ -40,16 +29,13 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [API Sentry](https://github.com/Riyaz510/API-Sentry-Real-Time-API-Monitoring-IDS) | Node.js, Redis, MongoDB, Socket.io, Docker | Real-time API intrusion detection system with rule-based threat engine |
-| [Kitchen Alchemy](https://github.com/Riyaz510/Kitchen-Alchemy) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out |
-
-
----
+| [API Sentry](https://github.com/Riyaz510/API-Sentry-Real-Time-API-Monitoring-IDS) | Node.js, Express, Redis, MongoDB, Socket.io, Docker | Real-time API monitoring/IDS — intercepts requests via middleware, runs sliding-window rate limiting and brute-force detection, auto-blacklists offending IPs, alerts via Socket.io |
+| [Kitchen Alchemy](https://github.com/Riyaz510/Kitchen-Alchemy) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out. Deployed to production, handles 50+ ingredient combinations, sub-2s load |
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,docker,redis,mongodb,postgresql,react,vite,tailwind,js,git,github,vscode,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,python,csharp,nodejs,express,flask,postgresql,mongodb,react,vite,css,tailwind,docker,git,github,vscode,postman&theme=dark&perline=9" />
 </p>
 
 ---
@@ -92,17 +78,13 @@
 
 ---
 
-## 🏎️ F1 Fan
+## 🏎️ F1 & 🎮 Gaming
+
+<div align="center">
 
 ![Red Bull Racing](https://img.shields.io/badge/Red%20Bull%20Racing-Fan-%230600EF?style=for-the-badge&logo=redbull&logoColor=white)
 ![Max Verstappen](https://img.shields.io/badge/Max%20Verstappen-%231-0600EF?style=for-the-badge&logoColor=white)
 ![Formula 1](https://img.shields.io/badge/Formula%201-Fan-%23e8002d?style=for-the-badge&logo=f1&logoColor=white)
-
-> 🏁 *"Maybe God is with him, but he is not God."* 🐂
-
----
-
-## 🎮 Gaming
 
 ![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-%23000000?style=for-the-badge&logo=activision&logoColor=white)
 ![Valorant](https://img.shields.io/badge/Valorant-%23ff4655?style=for-the-badge&logo=riot-games&logoColor=white)
@@ -111,7 +93,9 @@
 ![RDR2](https://img.shields.io/badge/RDR2-%23b22222?style=for-the-badge&logoColor=white)
 ![God of War](https://img.shields.io/badge/God%20of%20War-%23d4af37?style=for-the-badge&logoColor=white)
 
-> 🎯 *"I don't rage quit. I strategically disconnect."* 💀
+> *"Maybe God is with him, but he is not God."* 🐂 &nbsp;|&nbsp; *"I don't rage quit. I strategically disconnect."* 💀
+
+</div>
 
 ---
 
@@ -125,19 +109,4 @@
 
 </div>
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
-
-```
-commit 4a2f9c1
-Author: Riyaz510 <riyazrocky2005@gmail.com>
-Date:   Everyday
-
-    feat: still learning, still building, still leveling up
-
-    - Added: new skills (Redis, Docker, real-time systems)
-    - Fixed: old mistakes
-    - Removed: self-doubt
-    - TODO: land first backend SDE internship 🎯
-```
