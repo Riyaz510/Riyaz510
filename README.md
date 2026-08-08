@@ -29,7 +29,7 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [API Sentry](https://github.com/Riyaz510/API-Sentry-Real-Time-API-Monitoring-IDS) | Node.js, Express, Redis, MongoDB, Socket.io, Docker | Real-time API monitoring/IDS — intercepts requests via middleware, runs sliding-window rate limiting and brute-force detection, auto-blacklists offending IPs, alerts via Socket.io |
+| [JD Match Analyzer](https://github.com/Riyaz510/JD-Match-Analyzer) | React, Vite, Node.js, Express, MongoDB, Groq API | AI-powered tool that compares a JD against a resume — returns a match score, gap analysis, and improvement suggestions via LLM |
 | [Kitchen Alchemy](https://github.com/Riyaz510/Kitchen-Alchemy) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out. Deployed to production, handles 50+ ingredient combinations, sub-2s load |
 
 ## 🚧 Currently Building
