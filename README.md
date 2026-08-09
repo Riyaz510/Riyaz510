@@ -29,7 +29,7 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [JD Match Analyzer](https://github.com/Riyaz510/JD-Match-Analyzer) | React, Vite, Node.js, Express, MongoDB, Groq API | AI-powered tool that compares a JD against a resume — returns a match score, gap analysis, and improvement suggestions via LLM |
+| [JD Match Analyzer](https://github.com/Riyaz510/JD-Match-Analyzer) — [Live Demo](https://jd-match-analyzer.onrender.com/) | React, Vite, Node.js, Express, MongoDB, Groq API | AI-powered tool that compares a JD against a resume — returns a match score, gap analysis, and improvement suggestions via LLM |
 | [Kitchen Alchemy](https://github.com/Riyaz510/Kitchen-Alchemy) | React, Vite, Node.js, Groq API, LLaMA 3.3 70B | AI recipe generator — ingredients in, structured recipes out. Deployed to production, handles 50+ ingredient combinations, sub-2s load |
 
 ## 🚧 Currently Building
